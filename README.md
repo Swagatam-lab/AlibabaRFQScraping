@@ -3,6 +3,7 @@
 This project is a **Python-based web scraper** that extracts buyer inquiry data from the Alibaba RFQ (Request for Quotation) listings. It uses **Selenium** to navigate pages and collect detailed information from each RFQ post, and saves the results in a clean **CSV file**.
 
 ---
+hello update
 
 ## 🚀 Features
 
